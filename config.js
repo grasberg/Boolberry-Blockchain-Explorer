@@ -1,6 +1,6 @@
 var api = 'http://188.138.61.144';
-var blockTargetInterval = 120;
-var coinUnits = 1000000000000;
+var blockTargetInterval = 60;
+var coinUnits = 800000000000000000;
 var symbol = 'XBB';
 var refreshDelay = 30000;
 // pools stats by MainCoins
