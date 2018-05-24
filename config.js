@@ -8,9 +8,5 @@ var networkStat = {
     "krb": [
 		["node1.gnixcoin.org", "http://188.138.61.144:18321"],
 	
-    ],
-    "xbb": [
-                ["bbr.miningclub.info", "http://bbr.miningclub.info:8118"],
-
     ]
 };
