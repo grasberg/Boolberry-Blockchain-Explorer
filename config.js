@@ -6,7 +6,7 @@ var refreshDelay = 30000;
 // pools stats by MainCoins
 var networkStat = {
     "krb": [
-		["node1.gnixcoin.org", "127.0.0.1:18321"],
+		["node1.gnixcoin.org", "http://127.0.0.1:18321"],
 	
     ],
     "xbb": [
